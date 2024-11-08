@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
+# Fundamentos .NET
 
 ## Desafio de projeto
 Se trata de um sistema para um estacionamento usado para gerenciar os veiculos estacionados e realizar suas operações. 
